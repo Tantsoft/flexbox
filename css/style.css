@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    border: 1px solid red;
+    
+    margin: 0 auto;
+    height: 400px;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.card_1{
+    
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+}
+
+.card_2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(182, 31, 252);
+}
+
+.card_3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(118, 207, 45);
+}

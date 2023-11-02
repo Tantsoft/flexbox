@@ -1,0 +1,59 @@
+/* small device */
+
+@media screen and (max-width:576px){
+    .main{
+        
+ 
+        
+        
+    }
+    
+    .card_1{
+        
+        width: 100px;
+        height: 200px;
+        background-color: black;
+    }
+    
+    .card_2{
+        width: 100px;
+        height: 200px;
+        background-color: rgb(182, 31, 252);
+    }
+    
+    .card_3{
+        width: 100px;
+        height: 200px;
+        background-color: rgb(118, 207, 45);
+    }
+}
+
+
+@media screen and (min-width:576px) and (max-width:768px) 
+ {
+    .main{
+      
+    }
+    
+    .card_1{
+        
+        width: 200px;
+        height: 200px;
+        background-color: rgb(81, 6, 201);
+    }
+    
+    .card_2{
+        width: 200px;
+        height: 200px;
+        background-color: rgb(182, 31, 252);
+    }
+    
+    .card_3{
+        width: 200px;
+        height: 200px;
+        background-color: rgb(103, 199, 25);
+    }
+}
+
+
+
